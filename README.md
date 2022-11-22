@@ -61,24 +61,23 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 
 ## Output:
 
-![image](https://user-images.githubusercontent.com/115128955/202491937-624f3b93-d434-4411-b6b1-2e37ab23bc4e.png)
+![op1](op1.png)
 
-![image](https://user-images.githubusercontent.com/115128955/202491992-f7176afe-774f-428f-ad1c-074fcbdec43c.png)
+![op2](op2.png)
 
-![image](https://user-images.githubusercontent.com/115128955/202492034-0b669bc2-ded6-4fbd-bb30-00e99de5cbe4.png)
+![op3](op3.png)
 
-![image](https://user-images.githubusercontent.com/115128955/202492107-58acf22d-c572-498e-9841-fc420a70908a.png)
+![op4](op4.png)
 
-![image](https://user-images.githubusercontent.com/115128955/202492157-b5677d73-2b78-4392-b068-c79e779e0343.png)
+![op5](op5.png)
 
-![image](https://user-images.githubusercontent.com/115128955/202492199-73c3b47c-cb36-42f8-a643-0dec94a3442a.png)
+![op6](op6.png)
 
-![image](https://user-images.githubusercontent.com/115128955/202492248-7a21518c-b73b-467c-be96-1c9a5b468ec2.png)
+![op7](op7.png)
 
-![image](https://user-images.githubusercontent.com/115128955/202492284-e68c782b-613e-47fd-b1ca-25d8c7bb5ffd.png)
+![op8](op8.png)
 
-![image](https://user-images.githubusercontent.com/115128955/202492322-04df4e99-bb15-4975-9e13-7f53993e9f38.png)
-
+![op9](op9.png)
 
 ## Result:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
