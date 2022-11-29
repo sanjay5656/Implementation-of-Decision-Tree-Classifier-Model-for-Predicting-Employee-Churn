@@ -1,4 +1,4 @@
-# EXPERIMENT 05
+# EXPERIMENT 06
 # Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn
 
 ## AIM:
